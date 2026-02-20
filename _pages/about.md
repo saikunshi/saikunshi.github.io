@@ -20,5 +20,5 @@ latest_posts: false
 
 Welcome! I am a PhD candidate in Political Economics at the Stanford Graduate School of Business. I am broadly interested in American politics and political economy. Among other things, I study how individuals’ interactions with the economy and their labor market experiences shape political attitudes and behavior. My research explores public opinion at the intersection of economics, policy, and political institutions. My work combines survey experiments, administrative data, and computational social science methods to rigorously examine the mechanisms behind political behavior.
 
-Prior to Stanford, I was a Pre-doctoral Fellow in Microeconomics at Columbia Business School. I received my B.A. in Economics and German Studies from Smith College.
+Prior to Stanford, I was a Pre-doctoral Fellow in Microeconomics at Columbia Business School; before that, I worked in economic consulting where I specialized in regulatory issues related to competition and antiturst. I received my B.A. in Economics and German Studies from Smith College.
 
