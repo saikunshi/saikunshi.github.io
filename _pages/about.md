@@ -2,23 +2,29 @@
 layout: about
 title: About
 permalink: /
+subtitle: PhD Candidate, Stanford Graduate School of Business · Political Economics
 
 profile:
   align: right
   image: Shi_photo.jpg
   image_circular: false # crops the image to make it circular
 
-
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements: false
 
-
 latest_posts: false
 ---
 
-Welcome! I am a PhD candidate in Political Economics at the Stanford Graduate School of Business. I am broadly interested in American politics and political economy. Among other things, I study how individuals’ interactions with the economy and their labor market experiences shape political attitudes and behavior. My research explores public opinion at the intersection of economics, policy, and political institutions. My work combines survey experiments, administrative data, and computational social science methods to rigorously examine the mechanisms behind political behavior.
+I am a PhD candidate in Political Economics at the Stanford Graduate School of Business. My research explores public opinion and political behavior at the intersection of economics, policy, and political institutions: whether average voters can judge and discipline technocratic government, how individuals' interactions with the economy and their labor-market experiences shape political attitudes and behavior, and how candidates' strategies and changing information environments reshape what information reaches the public in the first place. My work combines survey experiments, administrative data, and computational social science methods — grounded in formal modeling and the quantitative training of economics — to rigorously examine the mechanisms behind political behavior.
 
-Prior to Stanford, I was a Pre-doctoral Fellow in Microeconomics at Columbia Business School; before that, I worked in economic consulting where I specialized in regulatory issues related to competition and antiturst. I received my B.A. in Economics and German Studies from Smith College.
+<div class="publications">
 
+{% bibliography --query @*[abbr=Publications]* %}
+
+{% bibliography --query @*[abbr=Working Papers]* %}
+
+{% bibliography --query @*[abbr=Work in Progress]* %}
+
+</div>
