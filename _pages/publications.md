@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Research
-nav: false
+nav: true
 nav_order: 2
 ---
 
