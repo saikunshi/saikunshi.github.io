@@ -17,6 +17,11 @@ nav_order: 2
 
 {% bibliography --query @*[abbr=Working Papers]* %}
 
+{% comment %}
+  Work in Progress section hidden during the 2026-27 job market (its only entry
+  is also wrapped in a comment in _bibliography/papers.bib). To restore, remove
+  this comment block and the wrapper in the bib file.
 {% bibliography --query @*[abbr=Work in Progress]* %}
+{% endcomment %}
 
 </div>
