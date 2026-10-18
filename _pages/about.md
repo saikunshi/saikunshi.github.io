@@ -17,7 +17,7 @@ announcements: false
 latest_posts: false
 ---
 
-I am a PhD candidate in Political Economics at the [Stanford Graduate School of Business](https://www.gsb.stanford.edu/). My job market paper asks whether the building blocks of democratic accountability can be found in a domain deliberately insulated from ordinary politics: antitrust enforcement. I study whether average voters understand mergers and acquisitions and can form opinions about them, whether those opinions influence their confidence in government agencies, and whether actual enforcement tracks public opinion.
+I am a PhD candidate in Political Economics at the [Stanford Graduate School of Business](https://www.gsb.stanford.edu/). My job market paper asks whether the building blocks of democratic accountability can be found in a technocratic domain with weak partisan cues: antitrust enforcement. I study whether average voters understand mergers and acquisitions and can form opinions about them, whether those opinions influence their confidence in government agencies, and whether actual enforcement tracks public opinion.
 
 **I am on the 2026–2027 academic job market.**
 
